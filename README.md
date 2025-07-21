@@ -86,3 +86,8 @@ Palak Jain ["Enforcing Demographic Coherence: A Harms-Aware Framework for Reason
 ### Academic Papers
 
 M. Bun, M. Carmosino, P. Jain, G. Kaptchuk and S. Sivakumar, ["Enforcing Demographic Coherence: A Harms Aware Framework for Reasoning about Private Data Release"](https://arxiv.org/abs/2502.02709), Feb. 2025.
+
+## General Reading
+
+IEEE's Digital Privacy ["Additional Digital Privacy Resources" page](https://digitalprivacy.ieee.org/publications/topics/)
+- This page contains links to posts that go into more detail about MPC and Differential Privacy + how they can be applied in practice, as well as easy to comprehend information about maintaining privacy in the digital age generally 
