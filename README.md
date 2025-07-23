@@ -16,6 +16,8 @@ A. Wood, M. Altman, A. Bembenek, M. Bun, M. Gaboardi, J. Honaker, K. Nissim, D. 
 
 ### For Programmers
 
+[OpenDP](https://opendp.org/) & their extensive [documentation](https://docs.opendp.org/en/stable/index.html)
+
 ### Academic Papers
 
 C. Dwork and A. Roth, ["The Algorithmic Foundations of Differential Privacy"](https://dl.acm.org/doi/10.1561/0400000042) in *Foundations and Trends in Theoretical Computer Science, Volume 9, Issue 3-4*, pp. 211-407, August 2014. (access a PDF [here](https://projects.iq.harvard.edu/files/privacytools/files/the_algorithmic_foundations_of_differential_privacy.pdf)) 
@@ -30,8 +32,6 @@ C. Canonne, ["Trust Models, and Notions of Privacy"](https://differentialprivacy
 
 OpenDP's ["Differential Privacy Deployments Registry"](https://registry.oblivious.com/), 2024 
 - A continually updated list of systems that have been deployed with differential privacy. It outlines the specific model they used (e.g. local or central), as well as the value of epsilon, so practictioners can learn from how some of the leading tech companies are deploying differential privacy for their data releases.
-
-### For Programmers
 
 ### Academic Papers
 
@@ -52,10 +52,6 @@ A. Gadotti, L. Rocher, F. Houssiau, A. Cretu and Y. De Montjoye, ["Anonymization
 I. Wagner and D. Eckhoff, ["Technical privacy Metrics: A Systematic Survey"](https://dl.acm.org/doi/abs/10.1145/3168389) in *ACM Computing Surveys (CSUR), Volume 51, Issue 3*, pp. 1-38, New York, NY, USA, Jun. 2018.
 - Only the section about k-anonymity is relevant, but this paper also contains great short summaries of other prominent privacy preserving techniques 
 
-### For Programmers
-
-Mondrian, Incognito, sequential release
-
 ### Academic Papers
 
 L. Sweeney, ["k-anomymity: A Model for Protecting Privacy"](https://dl.acm.org/doi/10.1142/S0218488502001648) in *International journal of Uncertainty, Fuzziness and Knowledge-Based Systems, Volume 10, Issue 5*, pp. 557-570, NJ, USA, Oct. 2002. (access a PDF [here](https://epic.org/wp-content/uploads/privacy/reidentification/Sweeney_Article.pdf)
@@ -67,8 +63,6 @@ C. C. Aggarwal, ["On k-anonymity and the Curse of Dimensionality"](https://dl.ac
 ### General Audiences
 
 [NIST's post about using cryptographic methods to complement differential privacy](https://www.nist.gov/blogs/cybersecurity-insights/privacy-enhancing-cryptography-complement-differential-privacy) 
-
-### For Programmers
 
 ### Academic Papers
 
