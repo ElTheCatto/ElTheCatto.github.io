@@ -25,6 +25,15 @@ li {
     text-decoration: none;
 }
 
+#name {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-left: 1px solid white;
+}
+
 .navigation:hover {
     background-color: darkgrey;
     color: white;
@@ -82,11 +91,16 @@ img {
     width: 730px;
     height: 500px;
     margin-left: 10px;
+    margin-bottom: 10px;
 }
 
 #c {
     display: table-cell;
     vertical-align: middle;
+    text-align: center;
+}
+
+#download {
     text-align: center;
 }
 
