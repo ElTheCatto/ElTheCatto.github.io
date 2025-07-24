@@ -1,5 +1,7 @@
 # Privacy Cards Resource List
 
+## Download the privacy cards from [here](https://github.com/ElTheCatto/ElTheCatto.github.io/tree/main)
+
 ## (Central) Differential Privacy
 
 ### General Audiences
