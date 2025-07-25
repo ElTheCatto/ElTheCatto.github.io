@@ -2,6 +2,8 @@
 
 ## Download the privacy cards from [here](https://github.com/ElTheCatto/ElTheCatto.github.io/tree/main)
 
+Privacy Model Cards © 2025 by Ella Drury is licensed under CC BY 4.0
+
 ## (Central) Differential Privacy
 
 ### General Audiences
